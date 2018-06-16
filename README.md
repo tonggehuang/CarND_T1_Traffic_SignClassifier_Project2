@@ -165,8 +165,4 @@ The code for making predictions on my final model is located in the 593th cell o
 ![alt text][top5_softmax_res_4]
 ![alt text][top5_softmax_res_5]
 
-# CarND_T1_lane_detection_Project2
-# CarND_T1_Traffic_sign_Project2
-# CarND_T1_Traffic_SignClassifier_Project2
-# CarND_T1_Traffic_SignClassifier_Project2
-# CarND_T1_Traffic_SignClassifier_Project2
+
